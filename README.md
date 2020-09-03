@@ -1,4 +1,4 @@
-### Hi there 👋
+### There's nothing to see here. Move along. Keep moving. 
 
 <!--
 **bashu/bashu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
